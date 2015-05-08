@@ -1,0 +1,65 @@
+﻿@model DTOLayer.PostDTO
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PostDetail</title>
+</head>
+<body>
+    <fieldset>
+        <legend>PostDTO</legend>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Title)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Title)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Content)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Content)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.AuthorId)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.AuthorId)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.PublishDate)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.PublishDate)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.CategoryId)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.CategoryId)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Tags)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Tags)
+        </div>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

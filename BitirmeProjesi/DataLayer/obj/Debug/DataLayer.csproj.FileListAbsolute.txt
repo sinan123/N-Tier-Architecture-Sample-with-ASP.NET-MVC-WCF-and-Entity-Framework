@@ -1,0 +1,10 @@
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\DataLayer.dll.config
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\DataLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\EntityFramework.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\EntityFramework.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\obj\Debug\DataLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\obj\Debug\DataLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DataLayer\bin\Debug\EntityFramework.SqlServer.xml

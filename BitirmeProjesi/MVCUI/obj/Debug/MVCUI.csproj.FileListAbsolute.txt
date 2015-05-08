@@ -1,0 +1,66 @@
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\MVCUI.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\MVCUI.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\Antlr3.Runtime.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\Newtonsoft.Json.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Net.Http.Formatting.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Http.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Http.WebHost.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Mvc.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Optimization.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Providers.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Razor.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Razor.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\WebGrease.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\Newtonsoft.Json.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Net.Http.Formatting.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Http.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Http.WebHost.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Mvc.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Razor.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Deployment.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Razor.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.SqlServer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.SqlServer.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Providers.xml
+C:\Users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\DTOLayer.dll
+C:\Users\test\documents\visual studio 2012\Projects\BitirmeProjesi\MVCUI\bin\DTOLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\MVCUI.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\MVCUI.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\Antlr3.Runtime.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\DTOLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\Newtonsoft.Json.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Mvc.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Optimization.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Providers.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Razor.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\WebGrease.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\DTOLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\EntityFramework.SqlServer.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Providers.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\Newtonsoft.Json.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Mvc.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.Razor.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.csprojResolveAssemblyReference.cache
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\MVCUI\obj\Debug\MVCUI.pdb

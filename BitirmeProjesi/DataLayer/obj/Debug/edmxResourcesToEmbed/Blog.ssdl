@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyBlogModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="MyBlogModelStoreContainer">
+    <EntitySet Name="Authors" EntityType="MyBlogModel.Store.Authors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Categories" EntityType="MyBlogModel.Store.Categories" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Posts" EntityType="MyBlogModel.Store.Posts" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Posts_Authors" Association="MyBlogModel.Store.FK_Posts_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Posts" EntitySet="Posts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Posts_Category" Association="MyBlogModel.Store.FK_Posts_Category">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Posts" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Authors">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Surname" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Posts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Content" Type="nvarchar" Nullable="false" MaxLength="150" />
+    <Property Name="AuthorId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PublishDate" Type="datetime" Nullable="false" />
+    <Property Name="CategoryId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Tags" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_Posts_Authors">
+    <End Role="Authors" Type="MyBlogModel.Store.Authors" Multiplicity="1" />
+    <End Role="Posts" Type="MyBlogModel.Store.Posts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Posts">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Posts_Category">
+    <End Role="Categories" Type="MyBlogModel.Store.Categories" Multiplicity="1" />
+    <End Role="Posts" Type="MyBlogModel.Store.Posts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Posts">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

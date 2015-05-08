@@ -1,0 +1,14 @@
+﻿@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOut", "Account", FormMethod.Post))
+    { 
+        <h2 class="title">@Html.ActionLink("Merhaba "+User.Identity.Name+"!","Index")</h2>
+        @Html.ActionLink("Çıkış Yap","LogOut","Account")
+				   
+    }
+}
+else
+{
+     <h2 class="title">@Html.ActionLink("Kayıt Ol","Register","Account")</h2>
+    <h2 class="title">@Html.ActionLink("Giriş","Login","Account")</h2>
+}

@@ -1,0 +1,15 @@
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\bin\Debug\WPFUI.exe.config
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\bin\Debug\WPFUI.exe
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\bin\Debug\WPFUI.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\MainWindow.baml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\MainWindow.g.cs
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\App.g.cs
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.g.resources
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.exe
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\obj\Debug\WPFUI.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\bin\Debug\DTOLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\WPFUI\bin\Debug\DTOLayer.pdb

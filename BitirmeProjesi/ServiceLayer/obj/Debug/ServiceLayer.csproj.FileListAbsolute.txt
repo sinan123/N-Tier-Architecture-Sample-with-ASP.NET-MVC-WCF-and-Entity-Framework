@@ -1,0 +1,36 @@
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\ServiceLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\ServiceLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\DTOLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\DTOLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.Net4.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\DataLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.SqlServer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\DataLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.Net4.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.xml
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.Net4.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\ServiceLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\ServiceLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\DataLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\DTOLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.SqlServer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\DataLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\DTOLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\AutoMapper.Net4.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\ServiceLayer\obj\Debug\ServiceLayer.pdb

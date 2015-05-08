@@ -1,0 +1,40 @@
+﻿@using DTOLayer
+@model IEnumerable<PostDTO>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    string[] months=new string[]{"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec" };
+    
+    }
+@foreach (PostDTO p in Model)
+{
+    string[] tags=null;
+    if (p.Tags!=null)
+    {
+       tags = p.Tags.Split(',');
+    }
+   
+       
+    <div class="post">
+        <p class="date">@months[p.PublishDate.Month-1]<b>@p.PublishDate.Day</b></p>
+        <h2 class="title">@Html.ActionLink(p.Title, "PostDetail", "Home", new { id = p.Id }, new object { })</h2>
+       <p class="posted">Posted by @Html.ActionLink(p.Author.Name, "AuthorDetail", new {id=p.AuthorId })</p>
+        <div class="entry">
+            <p>
+                <img src="../Content/images/pics01.jpg" width="550" height="245" alt="" class="img-style1" /></p>
+            <p>
+                @p.Content
+            </p>
+
+            <div class="meta">
+                <p><span class="listed">Posted in @Html.ActionLink(p.Category.Name, "CategoryDetail", new { id=p.CategoryId })</span>@if (tags!=null)                                                               {
+                                                                                                                                         <span class="tags">Tags:<a href="#">@tags[0]</a> <a href="#">@tags[1]</a>, <a href="#">@tags[2]</a></span><span class="comments"><a href="#">235 Comments</a></span>
+                                                                                                                                     }</p>
+            </div>
+        </div>
+
+    </div>
+}

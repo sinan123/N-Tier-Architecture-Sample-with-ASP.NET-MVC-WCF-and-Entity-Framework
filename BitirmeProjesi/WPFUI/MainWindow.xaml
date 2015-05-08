@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Background="Gray">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="25,32,0,0" TextWrapping="Wrap" Text="Title:" Foreground="White" FontSize="20" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="106,32,0,0" TextWrapping="Wrap" Text="{Binding Path=Title}" FontSize="18" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,77,0,0" TextWrapping="Wrap" Text="Content:" FontSize="20" Foreground="White" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left"  Height="178" Margin="106,77,0,0" TextWrapping="Wrap" Text="{Binding Path=Content}" FontSize="18" VerticalAlignment="Top" Width="313"/>
+        <Button Click="Button_Click" Content="Kaydet" HorizontalAlignment="Left" Margin="307,260,0,0" VerticalAlignment="Top" Width="112" Height="33"/>
+
+    </Grid>
+</Window>

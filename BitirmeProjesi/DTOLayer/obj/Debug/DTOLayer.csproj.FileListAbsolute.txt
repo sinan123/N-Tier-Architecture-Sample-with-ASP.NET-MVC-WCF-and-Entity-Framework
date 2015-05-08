@@ -1,0 +1,10 @@
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DTOLayer\bin\Debug\DTOLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DTOLayer\bin\Debug\DTOLayer.pdb
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.dll
+c:\users\test\documents\visual studio 2012\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\DTOLayer\bin\Debug\DTOLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\DTOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.csprojResolveAssemblyReference.cache
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.dll
+C:\Users\sfa\Desktop\Projects\BitirmeProjesi\DTOLayer\obj\Debug\DTOLayer.pdb
